@@ -1,2 +1,2 @@
 # INSAID
-This repository is created to submit INSAID Projects..
+This repository is created to submit INSAID Projects.
